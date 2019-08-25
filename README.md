@@ -1,0 +1,2 @@
+# groupmanager
+spigot GroupManager config
